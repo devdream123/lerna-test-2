@@ -1,13 +1,13 @@
 {
-  "name": "Button",
-  "version": "1.0.2",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "gitHead": "23b33c47598d201aa3dff2e744986617e3ef528a"
+    "name": "@dannie/button",
+    "version": "1.0.2",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "gitHead": "8ce80ad7c8591da1bd4d2c19b0b383f6ec8672c8"
 }
