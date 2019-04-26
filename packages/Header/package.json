@@ -1,5 +1,5 @@
 {
-    "name": "@dannie/header",
+    "name": "header",
     "version": "1.0.4",
     "description": "",
     "main": "index.js",
@@ -9,5 +9,5 @@
     "keywords": [],
     "author": "",
     "license": "ISC",
-    "gitHead": "03618ab3418292ede3da0603a68c6f4f9b156ca9"
+    "gitHead": "e009476ec8ca38d378edc2c409705e41ea05e117"
 }
