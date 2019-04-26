@@ -1,5 +1,5 @@
 {
-    "name": "button",
+    "name": "@dannie/button",
     "version": "1.0.5",
     "description": "",
     "main": "index.js",
@@ -9,5 +9,5 @@
     "keywords": [],
     "author": "",
     "license": "ISC",
-    "gitHead": "e009476ec8ca38d378edc2c409705e41ea05e117"
+    "gitHead": "b39f269d0b11576eed09929817150348beccbe09"
 }
